@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>dev.shaikhmahad</groupId>
-    <artifactId>springboot-template</artifactId>
+    <artifactId>spring-security-jwt-mastery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-template</name>
-    <description>Reusable Spring Boot 4 boilerplate with Java 25, JPA, OpenAPI, and MapStruct</description>
+    <name>spring-security-jwt-mastery</name>
+    <description>Complete Spring Security and JWT implementation — learning reference project</description>
 
     <properties>
         <java.version>25</java.version>
